@@ -21,17 +21,17 @@ editions:
 - short: L
 assets:
   parts:
-  - {seq: 0, filename: KR6q0608_000.yaml, hash: 'sha256:351a94d3b88d8a42221845694bf22097be1d94567587cd7706d9c33b77311431'}
-  - {seq: 1, filename: KR6q0608_001.yaml, hash: 'sha256:c86f91af1849ae140de9374419b463ff8446c93e82fb39d09d170d180bd72849'}
-  - {seq: 2, filename: KR6q0608_002.yaml, hash: 'sha256:97b4729f81ed2a0175f7c7439bb864973dbac1fed91e5ad3a7d9c8a0d239d86e'}
-  - {seq: 3, filename: KR6q0608_003.yaml, hash: 'sha256:9ad28c418d6034a372abe18e6d78a913f78bddcd469556bce184bb7c4288e0ab'}
-  - {seq: 4, filename: KR6q0608_004.yaml, hash: 'sha256:45baa4dae1ccb9c581e11e09ba38ebd80f900d9b68beefc616465d8c3ad6fa0b'}
+  - {seq: 0, filename: KR6q0608_000.yaml, hash: 'sha256:35d0a35df62f2e68212bc47baa51005d1624324777fe5617fb669ecffdf3a560'}
+  - {seq: 1, filename: KR6q0608_001.yaml, hash: 'sha256:bd95fa1872a516c752f78453e2c25883705d70660e5b0946099f351e6ef7be6b'}
+  - {seq: 2, filename: KR6q0608_002.yaml, hash: 'sha256:2fb5a50caedef2d2dcb42b1e6c4eeaaaa12f8290cd37e84044f8ef6904296510'}
+  - {seq: 3, filename: KR6q0608_003.yaml, hash: 'sha256:736847f69dfcb3d8c8fb84f545706229c932f21f3c866168f8ca1630251b3d9b'}
+  - {seq: 4, filename: KR6q0608_004.yaml, hash: 'sha256:996133931d93386eb9d921b82448d29475f7cb0a652a83c3a3d3fe66ab96f89d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0608_000.markers.yaml, hash: 'sha256:405b02eed40b3ee242656c6d5aca03a5c20e508ec6909034411fda4ff5481a0d'}
-  - {seq: 1, role: markers, filename: assets/KR6q0608_001.markers.yaml, hash: 'sha256:c4b2f11a62fb47602ae00137d347c80c0e732f9c50bbb4824f4e2ac043aebc76'}
-  - {seq: 2, role: markers, filename: assets/KR6q0608_002.markers.yaml, hash: 'sha256:d1868abf67b799e408136df079d63a319790ddbf56645cfc6a81b4bb203694fe'}
-  - {seq: 3, role: markers, filename: assets/KR6q0608_003.markers.yaml, hash: 'sha256:e26b089a7379bd2b900a7e3493fb639c2ba3a1305eaa159fa980c2069a30ea76'}
-  - {seq: 4, role: markers, filename: assets/KR6q0608_004.markers.yaml, hash: 'sha256:58610a02952d03c3bc870061f297170344a1619bdbdd187d2ef62a4f053322cd'}
+  - {seq: 0, role: markers, filename: assets/KR6q0608_000.markers.yaml, hash: 'sha256:90e746903a060bb65d8d74358993b1f952c4bbe7f0ad480e3e1b70c380db110b'}
+  - {seq: 1, role: markers, filename: assets/KR6q0608_001.markers.yaml, hash: 'sha256:27c0f29f1bf8eb4c8f2905314f37a72935da2091c46c6cd5b6cad6d9a98b2625'}
+  - {seq: 2, role: markers, filename: assets/KR6q0608_002.markers.yaml, hash: 'sha256:627c02370ca728412f1e67906038e06c11d4da0423e66029dba4db1d749d4141'}
+  - {seq: 3, role: markers, filename: assets/KR6q0608_003.markers.yaml, hash: 'sha256:264accf2777525df21d61b05444903ac1df1d2055fea0bc27d8615bfcb540b74'}
+  - {seq: 4, role: markers, filename: assets/KR6q0608_004.markers.yaml, hash: 'sha256:83834dbd6ee01ab06645c948b8afe3abab73ae04e5311e653d5018c68cde3a63'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1533,7 +1533,4 @@ table_of_contents:
   label: 臨濟第三十一代南嶽山茨際禪師塔銘(并序)
   type: mulu
   level: 1
-hash: sha256:059b430a5b3a294de904d151127a41c3111fe1b85f31da9bcf46c18e2e12478d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:75502d4ac47991d0d4fdad3d9ab68f274994ff92568f61368a30dc10497ff58b
