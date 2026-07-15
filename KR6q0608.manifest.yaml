@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0608/v1
 canonical_location: https://kanripo.org/bkk/KR6q0608/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 山茨際禪師語錄
   identifiers:
@@ -21,17 +21,17 @@ editions:
 - short: L
 assets:
   parts:
-  - {seq: 0, filename: KR6q0608_000.yaml, hash: 'sha256:35d0a35df62f2e68212bc47baa51005d1624324777fe5617fb669ecffdf3a560'}
-  - {seq: 1, filename: KR6q0608_001.yaml, hash: 'sha256:bd95fa1872a516c752f78453e2c25883705d70660e5b0946099f351e6ef7be6b'}
-  - {seq: 2, filename: KR6q0608_002.yaml, hash: 'sha256:2fb5a50caedef2d2dcb42b1e6c4eeaaaa12f8290cd37e84044f8ef6904296510'}
-  - {seq: 3, filename: KR6q0608_003.yaml, hash: 'sha256:736847f69dfcb3d8c8fb84f545706229c932f21f3c866168f8ca1630251b3d9b'}
-  - {seq: 4, filename: KR6q0608_004.yaml, hash: 'sha256:996133931d93386eb9d921b82448d29475f7cb0a652a83c3a3d3fe66ab96f89d'}
+  - {seq: 0, filename: KR6q0608_000.yaml, hash: 'sha256:56597366ec414a6ba71c2bb33c67213c7f2c76deb9fe79177560b07b7d84c126'}
+  - {seq: 1, filename: KR6q0608_001.yaml, hash: 'sha256:ff30149cb50922551ff02162dbc4701fab4614becd2403c9efe10ff1cb654ffd'}
+  - {seq: 2, filename: KR6q0608_002.yaml, hash: 'sha256:6fea8cd5f8583d161d1eecd7e9bace98b6c2d356cc9825a12e6d6e700b430df4'}
+  - {seq: 3, filename: KR6q0608_003.yaml, hash: 'sha256:d7d7bf454b65f812adf7d68a8be0b52deea1b7c481d71f180463c2238995a00a'}
+  - {seq: 4, filename: KR6q0608_004.yaml, hash: 'sha256:639ca660c0c7926c3024b42955ca24f0bb96b15714c13d8ffed413899cd5bfdb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0608_000.markers.yaml, hash: 'sha256:90e746903a060bb65d8d74358993b1f952c4bbe7f0ad480e3e1b70c380db110b'}
-  - {seq: 1, role: markers, filename: assets/KR6q0608_001.markers.yaml, hash: 'sha256:27c0f29f1bf8eb4c8f2905314f37a72935da2091c46c6cd5b6cad6d9a98b2625'}
-  - {seq: 2, role: markers, filename: assets/KR6q0608_002.markers.yaml, hash: 'sha256:627c02370ca728412f1e67906038e06c11d4da0423e66029dba4db1d749d4141'}
-  - {seq: 3, role: markers, filename: assets/KR6q0608_003.markers.yaml, hash: 'sha256:264accf2777525df21d61b05444903ac1df1d2055fea0bc27d8615bfcb540b74'}
-  - {seq: 4, role: markers, filename: assets/KR6q0608_004.markers.yaml, hash: 'sha256:83834dbd6ee01ab06645c948b8afe3abab73ae04e5311e653d5018c68cde3a63'}
+  - {seq: 0, role: markers, filename: assets/KR6q0608_000.markers.yaml, hash: 'sha256:6267ae99e9f80c310068046603921cbb80f3c9fb220f1f66298f26726aeedf75'}
+  - {seq: 1, role: markers, filename: assets/KR6q0608_001.markers.yaml, hash: 'sha256:9f56e4756b72d7a63846245ffbd37ac784bf0dc791c589c64e97689391a6972c'}
+  - {seq: 2, role: markers, filename: assets/KR6q0608_002.markers.yaml, hash: 'sha256:2560e5a25bb43ee7aa371fa222fb47a961307436e03cd95b51ed2c70df5ee40f'}
+  - {seq: 3, role: markers, filename: assets/KR6q0608_003.markers.yaml, hash: 'sha256:3de5b917fde11ef70d9816ff68d1ff6ff7a1e75334bf8cac566d28145a5c8483'}
+  - {seq: 4, role: markers, filename: assets/KR6q0608_004.markers.yaml, hash: 'sha256:60aaeb88804a2bcf62e7edb58e16e858d009e35b9398e449e5fa4c3f144f3c38'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1533,4 +1533,7 @@ table_of_contents:
   label: 臨濟第三十一代南嶽山茨際禪師塔銘(并序)
   type: mulu
   level: 1
-hash: sha256:75502d4ac47991d0d4fdad3d9ab68f274994ff92568f61368a30dc10497ff58b
+hash: sha256:7e6c0fb87ea4141aee036d00ead8aac23d0124dcc5343c781748804da858c71b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
