@@ -21,13 +21,13 @@ editions:
 - short: L
 assets:
   parts:
-  - {seq: 0, filename: KR6q0608_000.yaml, hash: 'sha256:56597366ec414a6ba71c2bb33c67213c7f2c76deb9fe79177560b07b7d84c126'}
+  - {seq: 0, filename: KR6q0608_000.yaml, hash: 'sha256:27aca20444e124a50fcc8db9169631ca6780be48fd14f37bef6ed01e33041af2'}
   - {seq: 1, filename: KR6q0608_001.yaml, hash: 'sha256:ff30149cb50922551ff02162dbc4701fab4614becd2403c9efe10ff1cb654ffd'}
   - {seq: 2, filename: KR6q0608_002.yaml, hash: 'sha256:6fea8cd5f8583d161d1eecd7e9bace98b6c2d356cc9825a12e6d6e700b430df4'}
   - {seq: 3, filename: KR6q0608_003.yaml, hash: 'sha256:d7d7bf454b65f812adf7d68a8be0b52deea1b7c481d71f180463c2238995a00a'}
   - {seq: 4, filename: KR6q0608_004.yaml, hash: 'sha256:639ca660c0c7926c3024b42955ca24f0bb96b15714c13d8ffed413899cd5bfdb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0608_000.markers.yaml, hash: 'sha256:6267ae99e9f80c310068046603921cbb80f3c9fb220f1f66298f26726aeedf75'}
+  - {seq: 0, role: markers, filename: assets/KR6q0608_000.markers.yaml, hash: 'sha256:a9e0e5ad5d6bd1f2aeaa8233892adfba5f379821fed506e6dae57b46c6a92108'}
   - {seq: 1, role: markers, filename: assets/KR6q0608_001.markers.yaml, hash: 'sha256:9f56e4756b72d7a63846245ffbd37ac784bf0dc791c589c64e97689391a6972c'}
   - {seq: 2, role: markers, filename: assets/KR6q0608_002.markers.yaml, hash: 'sha256:2560e5a25bb43ee7aa371fa222fb47a961307436e03cd95b51ed2c70df5ee40f'}
   - {seq: 3, role: markers, filename: assets/KR6q0608_003.markers.yaml, hash: 'sha256:3de5b917fde11ef70d9816ff68d1ff6ff7a1e75334bf8cac566d28145a5c8483'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0608_L_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0608_L_000-mulu-2
     span:
-    - front
+    - body
     - 450
     - 450
   label: 目錄
@@ -1533,7 +1533,7 @@ table_of_contents:
   label: 臨濟第三十一代南嶽山茨際禪師塔銘(并序)
   type: mulu
   level: 1
-hash: sha256:7e6c0fb87ea4141aee036d00ead8aac23d0124dcc5343c781748804da858c71b
+hash: sha256:ad1f27af6ad77ae4a120618b5f0975b26f96be25c227e5435d776e2c5d817119
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

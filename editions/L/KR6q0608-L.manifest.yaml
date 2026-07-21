@@ -19,13 +19,13 @@ metadata:
     short: L
 assets:
   parts:
-  - {seq: 0, filename: KR6q0608_000-L.yaml, hash: 'sha256:35d0a35df62f2e68212bc47baa51005d1624324777fe5617fb669ecffdf3a560'}
+  - {seq: 0, filename: KR6q0608_000-L.yaml, hash: 'sha256:0e3f19ab5ea46919e59da5dd7cd038446586641a3327a48229aacfc2caf65351'}
   - {seq: 1, filename: KR6q0608_001-L.yaml, hash: 'sha256:bd95fa1872a516c752f78453e2c25883705d70660e5b0946099f351e6ef7be6b'}
   - {seq: 2, filename: KR6q0608_002-L.yaml, hash: 'sha256:2fb5a50caedef2d2dcb42b1e6c4eeaaaa12f8290cd37e84044f8ef6904296510'}
   - {seq: 3, filename: KR6q0608_003-L.yaml, hash: 'sha256:736847f69dfcb3d8c8fb84f545706229c932f21f3c866168f8ca1630251b3d9b'}
   - {seq: 4, filename: KR6q0608_004-L.yaml, hash: 'sha256:996133931d93386eb9d921b82448d29475f7cb0a652a83c3a3d3fe66ab96f89d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0608_000-L.markers.yaml, hash: 'sha256:f4076ec90f3baf9b4724efd65aa28e7236d9c399d7d393af0fa933b80dfafd52'}
+  - {seq: 0, role: markers, filename: assets/KR6q0608_000-L.markers.yaml, hash: 'sha256:a90ea2001404c933f6ee927c1779cefc6d2df4a64dfddd21c72ab5553be62f4f'}
   - {seq: 1, role: markers, filename: assets/KR6q0608_001-L.markers.yaml, hash: 'sha256:4dbe98049162b963c572c6ee5766092ee9c0a2987e8a0e67bd16648d6c0b5286'}
   - {seq: 2, role: markers, filename: assets/KR6q0608_002-L.markers.yaml, hash: 'sha256:a21fb41339bb0ecac5abb0ed3ff8f6f4cf310b91b676d013d1f6a54939ec7573'}
   - {seq: 3, role: markers, filename: assets/KR6q0608_003-L.markers.yaml, hash: 'sha256:9c8306a1a697ee3daab863adb5d0f8d51be550429576d5f2471dc628b57cafc5'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0608_L_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0608_L_000-mulu-2
     span:
-    - front
+    - body
     - 450
     - 450
   label: 目錄
@@ -1531,4 +1531,4 @@ table_of_contents:
   label: 臨濟第三十一代南嶽山茨際禪師塔銘(并序)
   type: mulu
   level: 1
-hash: sha256:6098e455ad201dd7cfa0ee17ba9da229995d17439e8a96dde8bb71bccd18581a
+hash: sha256:e55b01660c523ff1ab3b0e9a0042adb4376df36db18f80f659f029e5023b4538
